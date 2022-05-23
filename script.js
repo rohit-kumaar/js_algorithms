@@ -6,6 +6,7 @@ function script(url) {
   head.appendChild(script);
 }
 
+// script("./00_generate_fibonacci.js");
 // script("./01_fibonacci.js");
 // script("./02_anagram.js");
 script("./03_gridTraveler.js");
