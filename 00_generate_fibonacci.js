@@ -5,11 +5,11 @@
  */
 
 const fib = (n) => {
-  let result = [0, 1];
-  for (let i = 2; i < n; i++) {
-    result[i] = result[i - 1] + result[i - 2];
+  let seq = [0, 1];
+  for (let i = 2; i <= n; i++) {
+    seq[i] = seq[i - 1] + seq[i - 2];
   }
-  return result;
+  return seq;
 };
 
-console.log(fib(3));
+console.log("fib(3)", fib(3));
