@@ -7,7 +7,9 @@ function script(url) {
 }
 
 // script("./00_generate_fibonacci.js");
-// script("./01_Factorial_of_a_number.js");
-// script("./01_fibonacci.js");
-// script("./02_anagram.js");
-// script("./03_gridTraveler.js");
+// script("./01_factorial_of_a_number.js");
+// script("./02_prime_number.js");
+// script("./a_fibonacci.js");
+// script("./b_gridTraveler.js");
+// script("./c_anagram.js");
+script("./d_remove_duplicate_value.js");
