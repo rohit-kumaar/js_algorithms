@@ -1,13 +1,21 @@
-let number = 6;
-
 const isPowerOfTwo = (n) => {
-  //   let result = Math.pow(2, 3);
-  //   return result === n ? true : false;
-  if (n <= 1) return false;
+  if (n < 1) return false;
 
-  if (n > 1) {
-    return n % 2 === 0 ? true : false;
-  }
+  return (n & (n - 1)) === 0;
 };
 
-console.log(isPowerOfTwo(number));
+console.log(isPowerOfTwo(1));
+console.log(isPowerOfTwo(2));
+console.log(isPowerOfTwo(5));
+
+/*
+
+0 -> 000
+1 -> 001
+2 -> 010
+3 -> 011
+4 -> 100
+5 -> 101
+6 -> 111
+
+*/
