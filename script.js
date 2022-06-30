@@ -12,7 +12,8 @@ function script(url) {
 // script("./03_power_of_two.js");
 // script("./search/01_linear_search.js");
 // script("./search/02_binary_search.js");
-script("./search/03_recursive_binary_search.js");
+// script("./search/03_recursive_binary_search.js");
+script("./sort/01_bubble_sort.js");
 // script("./a_fibonacci.js");
 // script("./b_gridTraveler.js");
 // script("./c_anagram.js");
