@@ -10,9 +10,9 @@ function script(url) {
 // script("./01_factorial_of_a_number.js");
 // script("./02_prime_number.js");
 // script("./03_power_of_two.js");
-// script("./04_linear_search.js");
-// script("./05_binary_search.js");
-script("./06_recursive_binary_search.js");
+// script("./search/01_linear_search.js");
+// script("./search/02_binary_search.js");
+script("./search/03_recursive_binary_search.js");
 // script("./a_fibonacci.js");
 // script("./b_gridTraveler.js");
 // script("./c_anagram.js");
