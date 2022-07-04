@@ -18,7 +18,8 @@ function script(url) {
 // script("./sort/03_quick_sort.js");
 // script("./sort/04_merge_sort.js");
 // script("./cartesian_product/01_cartesian_product.js");
-script("./climbing_staircase/01_climbing_staircase.js");
+// script("./climbing_staircase/01_climbing_staircase.js");
+script("./tower_of_hanoi/01_tower_of_hanoi.js");
 // script("./a_fibonacci.js");
 // script("./b_gridTraveler.js");
 // script("./c_anagram.js");
