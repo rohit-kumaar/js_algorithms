@@ -7,7 +7,7 @@ function script(url) {
 }
 
 // script("./generate_fibonacci/01_generate_fibonacci.js");
-// script("./01_factorial_of_a_number.js");
+script("./factorial/01_factorial_of_a_number.js");
 // script("./02_prime_number.js");
 // script("./03_power_of_two.js");
 // script("./search/01_linear_search.js");
