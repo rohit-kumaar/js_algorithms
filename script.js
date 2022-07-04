@@ -16,7 +16,8 @@ function script(url) {
 // script("./sort/01_bubble_sort.js");
 // script("./sort/02_insertion_sort.js");
 // script("./sort/03_quick_sort.js");
-script("./sort/04_merge_sort.js");
+// script("./sort/04_merge_sort.js");
+script("./cartesian_product/01_cartesian_product.js");
 // script("./a_fibonacci.js");
 // script("./b_gridTraveler.js");
 // script("./c_anagram.js");
