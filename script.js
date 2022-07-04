@@ -6,7 +6,7 @@ function script(url) {
   head.appendChild(script);
 }
 
-// script("./00_generate_fibonacci.js");
+// script("./generate_fibonacci/01_generate_fibonacci.js");
 // script("./01_factorial_of_a_number.js");
 // script("./02_prime_number.js");
 // script("./03_power_of_two.js");
