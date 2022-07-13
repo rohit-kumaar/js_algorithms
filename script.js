@@ -6,20 +6,20 @@ function script(url) {
   head.appendChild(script);
 }
 
-// script("./generate_fibonacci/01_generate_fibonacci.js");
-// script("./factorial/01_factorial_of_a_number.js");
-// script("./prime_number/01_prime_number.js");
-// script("./power_of_two/01_power_of_two.js");
-// script("./search/01_linear_search.js");
-// script("./search/02_binary_search.js");
-// script("./search/03_recursive_binary_search.js");
-// script("./sort/01_bubble_sort.js");
-// script("./sort/02_insertion_sort.js");
-// script("./sort/03_quick_sort.js");
-// script("./sort/04_merge_sort.js");
-// script("./cartesian_product/01_cartesian_product.js");
-// script("./climbing_staircase/01_climbing_staircase.js");
-script("./tower_of_hanoi/01_tower_of_hanoi.js");
+// script("./01_by_codevolution/generate_fibonacci/01_generate_fibonacci.js");
+// script("./01_by_codevolution/factorial/01_factorial_of_a_number.js");
+// script("./01_by_codevolution/prime_number/01_prime_number.js");
+// script("./01_by_codevolution/power_of_two/01_power_of_two.js");
+// script("./01_by_codevolution/search/01_linear_search.js");
+// script("./01_by_codevolution/search/02_binary_search.js");
+// script("./01_by_codevolution/search/03_recursive_binary_search.js");
+// script("./01_by_codevolution/sort/01_bubble_sort.js");
+// script("./01_by_codevolution/sort/02_insertion_sort.js");
+// script("./01_by_codevolution/sort/03_quick_sort.js");
+// script("./01_by_codevolution/sort/04_merge_sort.js");
+// script("./01_by_codevolution/cartesian_product/01_cartesian_product.js");
+// script("./01_by_codevolution/climbing_staircase/01_climbing_staircase.js");
+script("./01_by_codevolution/tower_of_hanoi/01_tower_of_hanoi.js");
 // script("./a_fibonacci.js");
 // script("./b_gridTraveler.js");
 // script("./c_anagram.js");
